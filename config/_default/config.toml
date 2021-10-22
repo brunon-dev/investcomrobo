@@ -6,8 +6,10 @@ theme = 'anatole'
 title = 'Investindo com Robôs'
 author = 'Bruno Nogueira'
 description = 'Automação de trades usando a plataforma MetaTrader 5'
-profilePicture = "images/icone-robo.png"
+profilePicture = "images/logo-robo.png"
 contentratio = 0.7
+enableMediumZoom = false
+favicon = "favicons/"
 
 [[params.socialIcons]]
 icon = "fab fa-youtube"
