@@ -3,7 +3,7 @@ title: Instalação do MetaTrader 5
 description: Aprenda a instalar o MetaTrader 5, a principal ferramenta de
   automatização de trades.
 date: 2018-11-12T12:55:24.000Z
-image: assets/img/00-instalacao-mt5.png
+thumbnail: images/00-instalacao-mt5.png
 category: mt5
 background: "#7D669E"
 ---

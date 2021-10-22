@@ -3,7 +3,7 @@ title: Conhecendo o MetaTrader
 description: Já ouviu falar em robôs investidores? Conheça um pouco mais sobre
   esta tendência.
 date: 2018-11-11T01:37:00.000Z
-image: assets/img/conhecendo-mt.png
+thumbnail: images/conhecendo-mt.png
 category: mt5
 background: "#7D669E"
 ---

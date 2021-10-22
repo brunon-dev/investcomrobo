@@ -3,7 +3,7 @@ title: O básico sobre backtest
 description: Conheça a funcionalidade de backtest disponível no MetaTrader 5
   para robôs/ativos.
 date: 2019-01-06T11:09:39.000Z
-image: assets/img/backtest-metatrader-5-base.png
+thumbnail: images/backtest-metatrader-5-base.png
 category: mt5
 background: "#7D669E"
 ---
@@ -11,13 +11,13 @@ background: "#7D669E"
 
 Como se trata de uma plataforma all in one, também exista a possibilidade de realizar um backtest no MetaTrader 5 com robôs e ativos específicos. Com isso, é possível verificar usando dados históricos reais como funcionaria a estratégia definida por você. No entanto, sempre vale lembrar que ganhos passado não são garantia de sucesso em operações futuras. É sempre importante monitorar as configurações e fazer os ajustes necessários.
 
-Para um melhor aproveitamento deste conteúdo é necessário que você saiba instalar um robô no MetaTrader. Caso tenha dúvidas, [temos um outro post publicado aqui ensinando este passo a passo](https://brunon.com.br/instalando-rob%C3%B4s-no-metatrader-5/).
+Para um melhor aproveitamento deste conteúdo é necessário que você saiba instalar um robô no MetaTrader. Caso tenha dúvidas, [temos um outro post publicado aqui ensinando este passo a passo](./2020-08-16-instalando-robôs-no-metatrader-5.md).
 
 ## As configurações
 
 Para acessar o recurso de teste da plataforma escolha a opção “Exibir” -> “Testador de Estratégia” no menu superior. Como resultado, será aberta a janela abaixo:
 
-![Principais configurações do teste](assets/img/tela-teste-base.png "Janela Testador de Estratégia")
+![Principais configurações do teste](/images/tela-teste-base.png "Janela Testador de Estratégia")
 
 ## Opções
 
@@ -49,8 +49,8 @@ As informações relevantes para configuração do teste são:
 
 Depois que forem definidos todos esses campos basta clicar no botão “Iniciar” para começar os testes. Assim sendo, será exibida uma tela abaixo, onde pode ser visto o passo a passo no gráfico, além de informações de operações que foram realizadas.
 
-![Visualizando o andamento do teste](assets/img/visualiza-teste.png "Tela para visualização do teste")
+![Visualizando o andamento do teste](/images/visualiza-teste.png "Tela para visualização do teste")
 
 O vídeo abaixo mostra em detalhes todo o passo a passo desta configuração, além de mostrar a visualização da execução de um teste. Não deixe de assinar o canal e ativar as notificações, para ser avisado de novos conteúdos como este.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hBFWg2fDGxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Configurações do MetaTrader](https://img.youtube.com/vi/hBFWg2fDGxI/0.jpg)](https://www.youtube.com/watch?v=hBFWg2fDGxI)

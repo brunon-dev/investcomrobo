@@ -2,7 +2,7 @@
 title: Instalando robôs no MetaTrader 5
 description: Entenda como instalar diferentes robôs no seu MetaTrader 5
 date: 2018-12-05T09:15:34.000Z
-image: assets/img/instalando-robo-mt5.png
+thumbnail: images/instalando-robo-mt5.png
 category: mt5
 background: "#7D669E"
 ---
@@ -21,14 +21,14 @@ Ambos são gratuitos para contas demo, onde é possível avaliar os robôs fazen
 
 Os robôs disponíveis no nosso ambiente podem ser vistos na janela “Navegação”. O robô “ExpertMACD”, por exemplo, já é disponibilizado na instalação do MetaTrader 5 e por isso pode ser adicionado com facilidade.
 
-![Robôs disponíveis na janela Navegador](assets/img/01-janela-navegador.png "Janela Navegador")
+![Robôs disponíveis na janela Navegador](/images/01-janela-navegador.png "Janela Navegador")
 
 1. Primeiramente abrir o gráfico do ativo que o robô irá operar (ex.: PETR3).
 2. Em seguida clicar sobre o robô na janela “Navegação” e arrastar o mesmo para o gráfico.
 
 Assim, será aberta a janela de configuração do Robô, com os parâmetros de entrada (caso o mesmo possua). Além disso, existe a possibilidade de habilitar ou não a negociação para este robô/ativo especificamente.
 
-![Configurando o MACD](assets/img/02-parametros-entrada.png "Parâmetros de entrada do robô MACD")
+![Configurando o MACD](/images/02-parametros-entrada.png "Parâmetros de entrada do robô MACD")
 
 Depois disso, caso a Negociação Automatizada do sistema como um todo esteja habilitada e o robô/ativo tenha a marcação indicada no última passo acima, o robô estará executando.
 
@@ -46,4 +46,4 @@ A partir daí, basta seguir o primeiro passo a passo do post.
 
 No vídeo abaixo mostramos todo esse passo a passo com muito mais detalhes. Não deixe de se inscrever no canal, curtir o vídeo e comentar que tipo de conteúdo você acha interessante, relacionado a MetaTrader.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1683qGElsFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Configurações do MetaTrader](https://img.youtube.com/vi/1683qGElsFE/0.jpg)](https://www.youtube.com/watch?v=1683qGElsFE)
