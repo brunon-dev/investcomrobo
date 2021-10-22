@@ -1,8 +1,29 @@
 baseURL = 'http://investindocomrobos.com.br/'
 languageCode = 'pt-br'
 theme = 'anatole'
+
 [params]
 title = 'Investindo com Robôs'
 author = 'Bruno Nogueira'
 description = 'Automação de trades usando a plataforma MetaTrader 5'
 profilePicture = "images/icone-robo.png"
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/BrunoInvest"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/brunonbn/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/brunon_bn"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/brunonbn"
