@@ -13,21 +13,21 @@ Depois da instalação da plataforma, é preciso fazer as configurações do Met
 
 1. Primeiramente, clicar com o botão direito do mouse sobre a janela e escolher a opção “Ocultar Tudo”.
 
-![Ocultando todos os ativos](/images/01-ocultar-ativos.png "Ocultar ativos")
+![Ocultando todos os ativos](./../../images/01-ocultar-ativos.png "Ocultar ativos")
 
 2. Assim, com a lista vazia, clique sobre o item “+ click to add…” e digite o ativo que vai querer acompanhar. Pode ser ativos da B3 (ex.: PETR3, VALE3), um contrato de mini índice (ex.: WINZ18), a série contínua do mini índice (WIN$), entre outras possibilidades. Vamos ver mais detalhes sobre os contratos de mini índice e a série contínua em um dos nossos próximos vídeos.
 
-![Adicionando ativos específicos na lista](/images/02-click-to-add.png "Possibilidade de adicionar ativos na lista")
+![Adicionando ativos específicos na lista](./../../images/02-click-to-add.png "Possibilidade de adicionar ativos na lista")
 
-![Ativos selecionados para exibição](/images/03-ativos-selecionados.png "Lista de ativos selecionados")
+![Ativos selecionados para exibição](./../../images/03-ativos-selecionados.png "Lista de ativos selecionados")
 
 3. Também é possível abrir o gráfico para um ou mais dos ativos selecionados clicando sobre ele com o botão direito do mouse e escolhendo a opção “Janela do Gráfico”.
 
-![Abrindo gráfico para um ativo](/images/04-janela-do-grafico.png "Opção Janela do Gráfico")
+![Abrindo gráfico para um ativo](./../../images/04-janela-do-grafico.png "Opção Janela do Gráfico")
 
 4. Ao abrir várias janelas de gráfico é possível acessá-las através do menu principal, opção “Janela”, além de ter opções para organizar as mesmas (ex.: com a opção “Lado a lado”).
 
-![Organizando as janelas no MetaTrader](/images/05-organizacao-janela.png "Opções para organização de janelas")
+![Organizando as janelas no MetaTrader](./../../images/05-organizacao-janela.png "Opções para organização de janelas")
 
 ## Configurações dos gráficos
 
@@ -36,11 +36,11 @@ Outras alterações importantes estão relacionadas com gráficos. Uma das confi
 1. Primeiramente, no menu principal do sistema selecionar a opção “Gráficos”.
 2. Logo depois, escolher entre as opções “Gráfico de barras”, “Gráfico de velas (Candles)” e “Gráfico de linha”.
 
-![Tipos de gráficos disponíveis](/images/06-menu-grafico.png "Opções de tipos de gráfico")
+![Tipos de gráficos disponíveis](./../../images/06-menu-grafico.png "Opções de tipos de gráfico")
 
 3. Uma segunda opção é clicar com o botão direito do mouse sobre o gráfico. As opções exibidas são as mesmas.
 
-![Menu suspenso com opções de gráfico](/images/07-tipos-grafico.png "Opções de gráfico no menu do botão direito do mouse")
+![Menu suspenso com opções de gráfico](./../../images/07-tipos-grafico.png "Opções de gráfico no menu do botão direito do mouse")
 
 4. Também é possível usar as teclas de atalho: “Alt + 1” (barra), “Alt + 2” (velas) e “Alt + 3” (linha).
 
@@ -49,7 +49,7 @@ Outra opção interessante relacionada às configurações do MetaTrader está r
 1. Antes de mais nada, no menu principal selecionar a opção “Gráficos” -> “Propriedades” (ou botão direito sobre o gráfico e opção “Propriedades”).
 2. Logo depois, selecionar a guia “Cores”.
 
-![Cores disponíveis para o gráfico](/images/08-propriedades-cores.png "Opções de cores nas propriedades do gráfico")
+![Cores disponíveis para o gráfico](./../../images/08-propriedades-cores.png "Opções de cores nas propriedades do gráfico")
 
 3. Assim, é possível escolher um “Esquema” pré-estabelecido ou definir um novo.
 4. Nesse sentido, como exemplo podemos escolher o “Esquema” “Black on White” e ainda alterar as cores do “Candle de Alta” e do “Candle de Baixa”.
@@ -62,7 +62,7 @@ Caso queira aproveitar as configurações do MetaTrader definidas até o momento
 
 2. Logo depois, definir um nome para o modelo, que será salvo em diretório específico da ferramenta.
 
-![Usando a opção de salvar um template](/images/09-salvar-template.png "Salvando um template")
+![Usando a opção de salvar um template](./../../images/09-salvar-template.png "Salvando um template")
 
 3. Para definir um determinado template como padrão da ferramenta, basta nomear o mesmo como “default” no momento que for salvar.
 
@@ -72,15 +72,15 @@ Além da customização de cores, também é possível incluir indicadores no gr
 
 1. Primeiramente, escolher no menu principal a opção “Inserir” -> “Indicadores” -> “Tendência” -> “Moving Average”.
 
-![Indicador de média móvel no MetaTrader](/images/10-indicador-media-movel.png "Opção para incluir indicador de média móvel")
+![Indicador de média móvel no MetaTrader](./../../images/10-indicador-media-movel.png "Opção para incluir indicador de média móvel")
 
 2. Assim, será exibida a janela para configuração do indicador, com algumas opções como o período da média móvel e o estilo (com linha contínua, definindo largura e cor, por exemplo).
 
-![Configurando o indicador média móvel](/images/11-config-media-movel.png "Janela de configuração de média móvel")
+![Configurando o indicador média móvel](./../../images/11-config-media-movel.png "Janela de configuração de média móvel")
 
 3. Além disso, também é possível incluir um indicador pela janela “Navegador”. No nosso exemplo, basta expandir “Indicadores” -> “Tendência”, clicar sobre “Moving Average” e arrastar para o gráfico onde se quer usar.
 
-![Janela Navegador, com os indicadores disponíveis](/images/12-navegador-indicadores.png "Indicadores na janela Navegador")
+![Janela Navegador, com os indicadores disponíveis](./../../images/12-navegador-indicadores.png "Indicadores na janela Navegador")
 
 ## Alterando o timeframe dos gráficos
 
@@ -88,7 +88,7 @@ Além da customização de cores, também é possível incluir indicadores no gr
 
 1. Antes de mais nada, no menu principal, opção “Gráficos” -> “Timeframes” e escolher uma das opções disponíveis.
 
-![Escolha do timeframe do gráfico](/images/13-timeframe.png "Opções relacionadas ao timeframe do gráfico")
+![Escolha do timeframe do gráfico](./../../images/13-timeframe.png "Opções relacionadas ao timeframe do gráfico")
 
 2. Da mesma forma, a opção “Timeframes” também fica disponível ao clicar com botão direito do mouse sobre o gráfico.
 

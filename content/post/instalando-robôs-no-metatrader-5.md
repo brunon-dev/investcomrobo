@@ -21,14 +21,14 @@ Ambos são gratuitos para contas demo, onde é possível avaliar os robôs fazen
 
 Os robôs disponíveis no nosso ambiente podem ser vistos na janela “Navegação”. O robô “ExpertMACD”, por exemplo, já é disponibilizado na instalação do MetaTrader 5 e por isso pode ser adicionado com facilidade.
 
-![Robôs disponíveis na janela Navegador](/images/01-janela-navegador.png "Janela Navegador")
+![Robôs disponíveis na janela Navegador](./../../images/01-janela-navegador.png "Janela Navegador")
 
 1. Primeiramente abrir o gráfico do ativo que o robô irá operar (ex.: PETR3).
 2. Em seguida clicar sobre o robô na janela “Navegação” e arrastar o mesmo para o gráfico.
 
 Assim, será aberta a janela de configuração do Robô, com os parâmetros de entrada (caso o mesmo possua). Além disso, existe a possibilidade de habilitar ou não a negociação para este robô/ativo especificamente.
 
-![Configurando o MACD](/images/02-parametros-entrada.png "Parâmetros de entrada do robô MACD")
+![Configurando o MACD](./../../images/02-parametros-entrada.png "Parâmetros de entrada do robô MACD")
 
 Depois disso, caso a Negociação Automatizada do sistema como um todo esteja habilitada e o robô/ativo tenha a marcação indicada no última passo acima, o robô estará executando.
 
