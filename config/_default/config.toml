@@ -1,6 +1,7 @@
 baseURL = 'https://investindocomrobos/'
 languageCode = 'pt-br'
 theme = 'anatole'
+googleAnalytics = "UA-173563152-2"
 
 [params]
 title = 'Investindo com Robôs'
