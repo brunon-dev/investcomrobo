@@ -11,7 +11,7 @@ background: "#7D669E"
 
 Como se trata de uma plataforma all in one, também exista a possibilidade de realizar um backtest no MetaTrader 5 com robôs e ativos específicos. Com isso, é possível verificar usando dados históricos reais como funcionaria a estratégia definida por você. No entanto, sempre vale lembrar que ganhos passado não são garantia de sucesso em operações futuras. É sempre importante monitorar as configurações e fazer os ajustes necessários.
 
-Para um melhor aproveitamento deste conteúdo é necessário que você saiba instalar um robô no MetaTrader. Caso tenha dúvidas, [temos um outro post publicado aqui ensinando este passo a passo](../instalando-robôs-no-metatrader-5).
+Para um melhor aproveitamento deste conteúdo é necessário que você saiba instalar um robô no MetaTrader. Caso tenha dúvidas, [temos um outro post publicado aqui ensinando este passo a passo](../instalando-robos-no-metatrader-5).
 
 ## As configurações
 
