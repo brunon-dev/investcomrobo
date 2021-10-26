@@ -43,4 +43,4 @@ Para solicitar o usuário e senha da conta demo já é necessário ter conta abe
 
 No vídeo abaixo mostramos este passo a passo em detalhes, desde o download, passando pela instalação e configuração de conta demo.
 
-[![Instalação do MetaTrader 5](https://img.youtube.com/vi/5g4XOqqsmI4/0.jpg)](https://www.youtube.com/watch?v=5g4XOqqsmI4)
+{{< youtube 5g4XOqqsmI4 >}}

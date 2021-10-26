@@ -29,4 +29,4 @@ Outra vantagem do uso de robôs é a possibilidade de operar de forma independen
 
 No vídeo abaixo é possível ver em detalhes estas e outras informações:
 
-[![Conhecendo o MetaTrader](https://img.youtube.com/vi/lCS9C7dYhB8/0.jpg)](https://www.youtube.com/watch?v=lCS9C7dYhB8)
+{{< youtube lCS9C7dYhB8 >}}

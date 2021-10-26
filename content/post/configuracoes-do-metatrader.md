@@ -94,4 +94,5 @@ Além da customização de cores, também é possível incluir indicadores no gr
 
 Por fim, no vídeo abaixo mostramos em detalhes as configurações feitas neste post. Além disso, não deixe de se inscrever no canal e ativar as notificações, para ser avisado quando forem publicados novos conteúdos.
 
-[![Configurações do MetaTrader](https://img.youtube.com/vi/l6LwUixHCwo/0.jpg)](https://www.youtube.com/watch?v=l6LwUixHCwo)
+{{< youtube l6LwUixHCwo >}}
+

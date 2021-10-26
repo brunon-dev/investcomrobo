@@ -53,4 +53,4 @@ Depois que forem definidos todos esses campos basta clicar no botão “Iniciar�
 
 O vídeo abaixo mostra em detalhes todo o passo a passo desta configuração, além de mostrar a visualização da execução de um teste. Não deixe de assinar o canal e ativar as notificações, para ser avisado de novos conteúdos como este.
 
-[![Configurações do MetaTrader](https://img.youtube.com/vi/hBFWg2fDGxI/0.jpg)](https://www.youtube.com/watch?v=hBFWg2fDGxI)
+{{< youtube hBFWg2fDGxI >}}

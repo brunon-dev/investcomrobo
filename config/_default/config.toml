@@ -9,7 +9,7 @@ author = 'Bruno Nogueira'
 description = 'Automação de trades usando a plataforma MetaTrader 5'
 profilePicture = "images/logo-robo.png"
 contentratio = 0.7
-enableMediumZoom = false
+enableMediumZoom = true
 favicon = "favicons/"
 
 [[params.socialIcons]]

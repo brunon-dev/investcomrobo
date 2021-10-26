@@ -46,4 +46,4 @@ A partir daí, basta seguir o primeiro passo a passo do post.
 
 No vídeo abaixo mostramos todo esse passo a passo com muito mais detalhes. Não deixe de se inscrever no canal, curtir o vídeo e comentar que tipo de conteúdo você acha interessante, relacionado a MetaTrader.
 
-[![Configurações do MetaTrader](https://img.youtube.com/vi/1683qGElsFE/0.jpg)](https://www.youtube.com/watch?v=1683qGElsFE)
+{{< youtube 1683qGElsFE >}}
