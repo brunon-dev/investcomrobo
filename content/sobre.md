@@ -11,6 +11,6 @@ Minha experiência profissional inclui passagens pelo Mercado Financeiro (XP, BT
 
 A ideia do canal surgiu quando co-produzi um curso de MetaTrader e precisei gerar conteúdo com conceitos básicos da plataforma para os alunos. Como também sou instrutor de cursos online, resolvi criar outros vídeos relacionados com assuntos que me interessam e com artigos do blog Bruno Nogueira.
 
-Conheça o [canal no YouTube relacionado com este blog](https://www.youtube.com/BrunoInvest).
+Conheça o [canal no YouTube relacionado com este blog](https://www.youtube.com/channel/UCRqmPzvWMP7t8PWhk6gCNLg).
 
 Não estou mais atualizando este conteúdo, mas se quiser pode me acompanhar no [meu blog pessoal](https://brunon.com.br).

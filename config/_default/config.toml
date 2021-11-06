@@ -15,7 +15,7 @@ favicon = "favicons/"
 [[params.socialIcons]]
 icon = "fab fa-youtube"
 title = "YouTube"
-url = "https://www.youtube.com/BrunoInvest"
+url = "https://www.youtube.com/channel/UCRqmPzvWMP7t8PWhk6gCNLg"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
